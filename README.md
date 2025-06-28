@@ -1,1 +1,1 @@
-# TyporaPics
+# ImageHost
